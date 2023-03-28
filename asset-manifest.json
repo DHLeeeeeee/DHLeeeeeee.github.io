@@ -1,19 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.517d2732.css",
-    "main.js": "/static/js/main.1538f6f6.js",
-    "static/media/AppleSDGothicNeoT.ttf": "/static/media/AppleSDGothicNeoT.fcecbefb26f42648e756.ttf",
+    "main.css": "/static/css/main.7e986087.css",
+    "main.js": "/static/js/main.b61ce461.js",
     "static/media/AppleSDGothicNeoL.ttf": "/static/media/AppleSDGothicNeoL.0ed4f3cf8e0a053dbc9c.ttf",
-    "static/media/AppleSDGothicNeoR.ttf": "/static/media/AppleSDGothicNeoR.d159b4d4ce2ef2592daa.ttf",
     "static/media/AppleSDGothicNeoH.ttf": "/static/media/AppleSDGothicNeoH.c9b896b8f1d363108e8c.ttf",
     "static/media/AppleSDGothicNeoB.ttf": "/static/media/AppleSDGothicNeoB.4175a777557557f7d294.ttf",
     "static/media/AppleSDGothicNeoM.ttf": "/static/media/AppleSDGothicNeoM.88c00162a2084f97069c.ttf",
     "index.html": "/index.html",
-    "main.517d2732.css.map": "/static/css/main.517d2732.css.map",
-    "main.1538f6f6.js.map": "/static/js/main.1538f6f6.js.map"
+    "main.7e986087.css.map": "/static/css/main.7e986087.css.map",
+    "main.b61ce461.js.map": "/static/js/main.b61ce461.js.map"
   },
   "entrypoints": [
-    "static/css/main.517d2732.css",
-    "static/js/main.1538f6f6.js"
+    "static/css/main.7e986087.css",
+    "static/js/main.b61ce461.js"
   ]
 }
